@@ -1,0 +1,36 @@
+import { makeStyles } from '@material-ui/core/styles'
+
+
+export const useStyles = makeStyles(({ spacing }) => ({
+    paper: {
+        width: 240
+    },
+    div: {
+        padding: 20,
+        display: 'flex',
+        alignItems: 'center'
+    },
+    logo: {
+        height: 60,
+        marginLeft: 40,
+        marginRight: 'auto'
+    },
+    footer: {
+        bottom: 0,
+        position: 'fixed',
+        width: '100%'
+    },
+    container: {
+        marginTop: spacing(15)
+    },
+    card: {
+        maxWidth: 350,
+        minHeight: 150
+    },
+    imagePoke: {
+        height: 250
+    },
+    logout:{
+        marginLeft: 20
+    }
+}))
