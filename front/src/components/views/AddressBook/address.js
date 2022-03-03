@@ -1,2 +1,1 @@
 TextDecoderStream.apply;
-test
