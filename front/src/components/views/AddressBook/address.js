@@ -1,2 +1,2 @@
 TextDecoderStream.apply;
-TEST1
+TEST2
