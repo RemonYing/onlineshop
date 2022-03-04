@@ -1,1 +1,2 @@
 TextDecoderStream.apply;
+terse
