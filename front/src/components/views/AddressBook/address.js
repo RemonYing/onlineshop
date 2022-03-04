@@ -1,3 +1,1 @@
 TextDecoderStream.apply;
-terse
-aaaaaaaaa
